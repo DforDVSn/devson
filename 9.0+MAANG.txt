@@ -1,0 +1,16 @@
++))california((
+| 1 | Netflix        | ₹25–40 LPA |      Los Gatos, USA        | $471B market cap; streaming & entertainment        |
+| 2 | Meta           | ₹30–45 LPA |      Menlo Park, USA       | $1.53T market cap; social media & VR/AR            |
+| 3 | Apple          | ₹30–50 LPA |      Cupertino, USA        | $4.02T market cap; consumer electronics & software | 
+| 4 | Google         | ₹40–60 LPA |      Mountain View, USA    | $3.34T market cap; leader in search, ads, cloud    |
+| 5 | Nvidia         | ₹35–60 LPA |      Santa Clara, USA      | $4.63T market cap; GPUs & AI powerhouse            |
++))california((
+
++))washington((
+| 1 | Microsoft      | ₹35–55 LPA |      Redmond, USA          | $3.79T market cap; strong in cloud & enterprise    |
+| 2 | Amazon         | ₹30–45 LPA |      Seattle, USA          | $2.50T market cap; e-commerce & AWS cloud          |
++))washington((
+
++))texas((
+| 1 | Tesla          | ₹30–50 LPA |      Austin, USA           | $1.34T market cap; EVs, batteries, clean energy    |
++))texas((

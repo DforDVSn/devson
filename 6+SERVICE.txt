@@ -1,0 +1,61 @@
+--$2-4--
+|  1   | HCL Technologies       | ₹2–4 LPA       | Noida         | $36.8B market cap; strong in engineering & R&D |
+|  2   | WHMCS Global Services  | ₹3–4 LPA       |               | Web hosting automation & billing               |
+|  3   | Sagar Informatics      | ₹3–4 LPA       | Multiple      | Enterprise software solutions                  |
+|  4   | Excellent Webworld     | ₹3–4 LPA       | Ahmedabad     | Web & mobile apps                              |
+|  5   | AppInventiv            | ₹3–5 LPA       | Noida         | Mobile app dev leader; emerging tech           |
+|  6   | CONTUS Tech            | ₹3–5 LPA       | Chennai       | OTT & video streaming                          |
+|  7   | Mobisoft Infotech      | ₹3–5 LPA       | Pune          | iOS, Android, cross-platform                   |
+|  8   | Cyber Infrastructure   | ₹3–5 LPA       | Bhubaneswar   | Web hosting & cloud infra                      |
+|  9   | Dotsquares             | ₹3–5 LPA       | Jaipur        | UK-based; Indian dev presence                  |
+| 10   | MTOAG Technologies     | ₹3–5 LPA       | Jaipur        | Mobile app innovation                          |
+| 11   | TatvaSoft              | ₹3–5 LPA       | Ahmedabad     | Microsoft Gold Partner                         |
+| 12   | Tvisha Technologies    | ₹3–5 LPA       | Bengaluru     | IT consulting & software dev                   |
+| 13   | Fingent                | ₹3–5 LPA       | Kochi         | Global IT consulting                           |
+| 14   | i2k2 Networks          | ₹3–5 LPA       | Multiple      | Networking & IT infra                          |
+| 15   | Algoworks              | ₹3–5 LPA       | Noida         | Salesforce partner                             |
+| 16   | Expertrec              | ₹3–5 LPA       | Chennai       | AI-powered site search                         |
+| 17   | Radixweb               | ₹3–5 LPA       | Ahmedabad     | Emerging tech                                  |
+| 18   | Carmatec               | ₹3–5 LPA       | Multiple      | Global IT solutions                            |
+| 19   | Pro Web                | ₹3–5 LPA       |               | Web dev & digital solutions                    |
+| 20   | Xicom                  | ₹3–5 LPA       | Indore        | Offshore dev firm                              |
+| 21   | The NineHertz          | ₹3–5 LPA       | Jaipur        | Mobile & web apps                              |
+| 22   | OnGraph                | ₹3–5 LPA       | Noida         | AI/ML & blockchain                             |
+| 23   | Concetto Labs          | ₹3–5 LPA       | Ahmedabad     | Innovative app solutions                       |
+| 24   | Quytech                | ₹3–5 LPA       | Noida         | AR/VR, IoT, mobile apps                        |
+| 25   | Aufait Technologies    | ₹3–5 LPA       | Multiple      | Custom software                                |
+| 26   | Quest                  | ₹3–5 LPA       | Info limited  | IT solutions                                   |
+| 27   | Rishabh Software       | ₹3–5 LPA       | Ahmedabad     | 25+ years in software dev                      |
+| 28   | FuGenX Technologies    | ₹3–5 LPA       | Bengaluru     | Mobile apps & games                            |
+| 29   | MindBowser             | ₹3–5 LPA       | Pune          | Product engineering                            |
+| 30   | Ibexlabs               | ₹3–5 LPA       | Info limited  | Cloud & DevOps                                 |
+| 31   | Umbrella Infocare      | ₹3–5 LPA       | Info limited  | IT infra & cloud services                      |
+--$2-4--
+
+--$3-7--
+|  1   | Tech Mahindra     | ₹3–5 LPA    | Pune              | Mahindra Group; telecom & automotive            |
+|  2   | TCS               | ₹3–7 LPA    | Mumbai            | India’s most valuable IT firm; Aadhaar, GSTN    |
+|  3   | Infosys           | ₹3–6 LPA    | Bengaluru         | Pioneered Global Delivery Model; NASDAQ listing |
+|  4   | Wipro             | ₹3–5 LPA    | Bengaluru         | From vegetable oil to IT giant                  |
+|  5   | LTI (LTIMindtree) | ₹4–6 LPA    | Mumbai            | Merged with Mindtree; 81,000+ employees         |
+|  6   | Mutual Mobile     | ₹4–6 LPA    | Hyderabad         | Digital product agency                          | 
+|  7   | XenonStack        | ₹4–6 LPA    | Chandigarh        | AI, Data Science, Cloud Native                  |
+|  8   | TechAhead         | ₹4–6 LPA    | Noida             | Award-winning app dev                           |ß
+|  9   | Synoptek          | ₹4–6 LPA    | Multiple          | Global IT services                              |
+| 10   | Virtusa           | ₹4–7 LPA    | Chennai, Hyderabad| US-based; acquired for $2B                      |
+--$3-7--
+
+--$5-9--
+|  1   | Accenture           | ₹4.5–6.5 LPA (SE ₹5 LPA, BA ₹11 LPA) | Bengaluru, Mumbai          | 350,000+ employees in India                       |
+|  2   | PwC                 | ₹7–10 LPA (avg ₹9.6 LPA)             | Kolkata, Bengaluru, Mumbai,| Big Four; “Best Workplaces 2025”                  |
+|  3   | Deloitte            | ₹6–9 LPA (avg ₹8.5 LPA)              | Mumbai                     | Largest global professional services network.     |
+|  4   | KPMG                | ₹6–9 LPA (avg ~₹7.5 LPA for freshers)| Mumbai, Bengaluru, Gurugram| Big Four; strong global audit & advisory presence |
+|  5   | Crowe               | ₹5–8 LPA                             | Multiple                   | Top 10 global accounting network                  |
+|  6   | Grant Thornton      | ₹5–8 LPA                             | Multiple                   | Leading audit/advisory firm                       |
+|  7   | PKF International   | ₹5–8 LPA                             | Mumbai, Delhi, Hyderabad   | Global advisory network                           |
+|  8   | Cigniti Technologies| ₹5–8 LPA (Automation Eng ₹5.85 LPA)  | Hyderabad                  | First listed independent testing firm             |
+--$5-9--
+
+--$10+--
+| 4 | Ernst & Young (EY) | ₹11–15 LPA (avg ₹13.4 LPA) | Multiple metros | Highest fresher salaries among Big Four; diversity & flexible work |
+--$10+--

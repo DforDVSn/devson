@@ -1,0 +1,9 @@
+1.in conversion.c return as int to get claculated directly
+2. dsa implementation
+3. clear screen problem
+4. number chaning problem  option 5
+5. storing cgpa in seperate file from same user reads the same data aas the login
+6. implementation of pure graph suggestion remaining
+7. decoration and cgi 
+8.
+cc main.c try.c placement.c donut.c conversion.c

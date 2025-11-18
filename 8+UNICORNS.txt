@@ -1,0 +1,59 @@
+
+####$# Fintech & Payments ####$#
+| 1 |     PayPal     | San Jose, USA      | ₹1.14Cr–₹4.17Cr | Digital payments       | Massive merchant network and one‑click checkout across millions of sites                              |
+| 2 |     Visa       | San Francisco, USA | ₹95L–₹1.38Cr    | Payments               | World's largest card network with real‑time fraud analytics at scale                                  | 
+| 3 |     Mastercard | New York, USA      | ₹99L–₹1.27Cr    | Payments               | Industry‑leading tokenization and cross‑border settlement capabilities                                |
+| 4 |     Stripe     | San Francisco, USA | ₹1.07Cr–₹1.65Cr | Internet payments      | Developer‑first APIs and global payouts in dozens of currencies for ultra‑fast integration            |
+| 5 |     Intuit     | Mountain View, USA | ₹91L–₹1.32Cr    | Fintech software       | Deep SMB accounting and tax ecosystem (TurboTax + QuickBooks) that locks in small‑business workflows  |
+####$# Fintech & Payments ####$#
+
+
+
+####$# Investment and Finance Giants ####$#
+| 1 |     Goldman Sachs     | New York, USA | ₹91L–₹1.24Cr | Investment banking          | Proprietary trading platforms and in‑house risk models powering market‑making                  |
+| 2 |     D.E. Shaw         | New York, USA | ₹99L–₹1.15Cr | Computational finance       | Quant‑first research culture with massive low‑latency compute for algorithmic strategies       |
+| 3 |     Morgan Stanley    | New York, USA | ₹72L–₹1.21Cr | Investment bank             | Global wealth‑management tech and high‑touch client platforms                                  |
+| 4 |     JP Morgan Chase   | New York, USA | ₹84L–₹1.15Cr | Investment bank             | Large bank‑grade blockchain initiatives and extensive cloud modernization at scale             |
+####$# Investment and Finance Giants ####$#
+
+
+
+####$# Cloud, Enterprise and Infrastructure ####$#
+| 1 |     Oracle            | Austin, USA        | ₹80L–₹1.15Cr    | Cloud tech             | Autonomous database and integrated cloud stack for enterprise lift‑and‑shift      |
+| 2 |     Cisco             | San Jose, USA      | ₹1Cr–₹1.87Cr    | Networking             | End‑to‑end networking hardware + software with a global backbone presence         |
+| 3 |     VMware            | Palo Alto, USA     | ₹1.20Cr–₹2.02Cr | Cloud computing        | Industry‑leading virtualization layer and hybrid‑cloud orchestration              |
+| 4 |     IBM               | Armonk, USA        | ₹1.09Cr–₹1.48Cr | Enterprise software    | Enterprise mainframe heritage plus hybrid AI and industry‑grade services          |
+| 5 |     Salesforce        | San Francisco, USA | ₹99L–₹1.40Cr    | CRM leader             | Massive CRM ecosystem with low‑code automation and enterprise app marketplace     |
+| 6 |     SAP Labs          | Walldorf, GER      | ₹54L–₹79L       | Enterprise software    | Deep ERP footprint across manufacturing and global supply chains                  |
+| 7 |     Tekion            | California, USA    | ₹98L–₹1.97Cr    | Cloud apps             | Real‑time automotive retail cloud tightly integrated with dealer networks         |
+####$# Cloud, Enterprise and Infrastructure ####$#
+
+
+
+####$# Developer, Productivity and Platforms ####$#
+| 1 |     GitHub    | San Francisco, USA | ₹1.13Cr–₹4.49Cr | Code hosting                  | Largest developer community plus integrated CI/CD via GitHub Actions             |
+| 2 |     LinkedIn  | Sunnyvale, USA     | ₹99L–₹1.48Cr    | Professional networking       | Rich professional graph and recruitment marketplace data unmatched by peers      |
+| 3 |     Atlassian | Sydney, AUS        | ₹53L–₹94L       | Jira, Trello                  | Team workflow backbone used by millions of engineering and product teams         |
+| 4 |     Adobe     | San Jose, USA      | ₹99L–₹1.48Cr    | Creative Cloud                | Industry‑standard creative tools with cloud collaboration and content pipelines  |
+| 5 |     Slack     | San Francisco, USA | ₹99L–₹1.32Cr    | Collaboration                 | Channel‑based real‑time collaboration with a massive app integration ecosystem   |
+| 6 |     Twilio    | San Francisco, USA | ₹79L–₹1.42Cr    | Cloud comms                   | Programmable communications APIs powering SMS/voice/video at global scale        |
+####$# Developer, Productivity and Platforms ####$#
+
+
+
+####$# Streaming, Social Media ####$#
+| 1 |     Spotify            | Stockholm, SWE | ₹39L–₹65L       | Audio streaming        | Personalized discovery engine and music‑consumption data insights              |
+| 2 |     Vimeo              | New York, USA  | ₹1.47Cr–₹1.60Cr | Video software         | Creator‑first video tools and direct monetization features for professionals   |
+| 3 |     Yahoo              | Sunnyvale, USA | ₹1.02Cr–₹2.24Cr | Media and tech         | Legacy portal scale combined with integrated ad tech and content distribution  |
+| 4 |     ByteDance (TikTok) | Beijing, China | ₹55L–₹81L       | Short‑form video       | Recommendation algorithm that drives unmatched short‑form engagement           |
+| 5 |     Truecaller         | Stockholm, SWE | ₹41L–₹58L       | Caller ID              | Global spam database and identity verification at scale across mobile networks |
+####$# Streaming, Social Media ####$#
+
+
+
+####$# Marketplaces, Travel, Gaming and Hardware ####$#
+| 1 |     Airbnb                 | San Francisco, USA  | ₹1.54Cr–₹3.97Cr | Lodging marketplace       | Peer‑to‑peer trust systems and dynamic pricing across millions of listings     |
+| 2 |     Expedia                | Seattle, USA        | ₹1.12Cr–₹2.58Cr | Travel tech               | Massive inventory aggregation and multi‑channel distribution for global travel |
+| 3 |     Zynga                  | San Francisco, USA  | ₹1.15Cr–₹1.62Cr | Gaming                    | Live‑ops expertise and social mobile game monetization at scale                |
+| 4 |     Samsung Electronics    | Seoul, Korea        | ₹34L–₹54L       | Semiconductors            | End‑to‑end device and memory chip manufacturing scale                          |
+####$# Marketplaces, Travel, Gaming and Hardware ####$#

@@ -1,0 +1,179 @@
+####$# Fintech & Payments ####$#
+| 1  | Paytm                      | Noida, India     | ₹17L–₹96L   | Digital payments      | Leading payments app powering merchants with UPI, bills, recharges, and financial services across India            |    
+| 2  | PhonePe                    | Bengaluru, India | ₹25L–₹1Cr   | Digital wallet        | UPI-based payments platform enabling seamless transactions, recharges, and merchant services for millions of users |    
+| 3  | Razorpay                   | Bengaluru, India | ₹22L–₹65L   | Payment gateway       | Developer-friendly APIs for online payments, lending, and banking solutions serving businesses nationwide          |    
+| 4  | CRED                       | Bengaluru, India | ₹20L–₹80L   | Credit rewards        | Rewards platform for credit card payments, loans, and financial tools targeting premium users                      |    
+| 5  | Pine Labs                  | Noida, India     | ₹16L–₹97L   | Merchant financing    | POS and payment solutions with credit offerings for offline and online retail transactions                         |    
+| 6  | Groww                      | Bengaluru, India | ₹25L–₹90L   | Investment platform   | Demat and mutual fund app simplifying stock trading and wealth management for retail investors                     |    
+| 7  | BharatPe                   | Delhi NCR, India | ₹22L–₹85L   | Merchant payments     | Free payment tools and loans for small merchants via QR and POS, integrated with lending ecosystem                 |    
+| 8  | Upstox                     | Mumbai, India    | ₹20L–₹80L   | Brokerage             | Low-cost trading app for stocks, options, and commodities with advanced charting tools                             |    
+| 9  | Billdesk                   | Mumbai, India    | ₹18L–₹75L   | Payment processing    | Enterprise-grade payment gateway for e-commerce and bill collections with fraud detection                          |    
+| 10 | Zeta                       | Bengaluru, India | ₹25L–₹1Cr   | Neo-banking           | Cloud-native banking platform for card issuance and digital accounts serving banks                                 |    
+| 11 | Policybazaar               | Gurugram, India  | ₹22L–₹85L   | Insurance aggregator  | Online comparison and purchase of insurance policies with AI-driven recommendations                                |    
+| 12 | OneCard                    | Pune, India      | ₹20L–₹75L   | Credit cards          | Metal credit cards with rewards and instant approvals via app for millennials                                      |    
+| 13 | Slice                      | Bengaluru, India | ₹18L–₹70L   | Buy-now-pay-later     | Credit line for young users with UPI integration and spending analytics                                            |    
+| 14 | CoinDCX                    | Mumbai, India    | ₹20L–₹80L   | Crypto exchange       | Secure trading platform for 200+ cryptocurrencies with staking and wallet services                                 |    
+| 15 | CoinSwitch Kuber           | Bengaluru, India | ₹18L–₹75L   | Crypto aggregator     | Simple interface for buying/selling 100+ coins with fiat on-ramps                                                  |    
+| 16 | Yubi (CredAvenue)          | Chennai, India   | ₹22L–₹85L   | Debt marketplace      | Platform connecting borrowers and lenders for corporate debt and bonds                                             |    
+| 17 | 5ire                       | Mumbai, India    | ₹15L–₹60L   | Blockchain finance    | Sustainable blockchain ecosystem for DeFi and enterprise solutions                                                 |    
+| 18 | Oxyzo                      | Gurugram, India  | ₹20L–₹75L   | SME lending           | OfBusiness arm providing credit to manufacturing SMBs                                                              |    
+| 19 | Open                       | Bengaluru, India | ₹18L–₹70L   | Business banking      | Integrated platform for SMB payments, accounting, and credit                                                       |    
+| 20 | MobiKwik                   | Gurugram, India  | ₹16L–₹65L   | Digital wallet        | Wallet for payments, recharges, and loans with merchant QR                                                         |    
+| 21 | Digit Insurance            | Mumbai, India    | ₹22L–₹85L   | Digital insurance     | App-based policies for health, auto, and travel with quick claims                                                  |    
+| 22 | HighRadius                 | Hyderabad, India | ₹25L–₹1Cr   | Fintech SaaS          | Autonomous finance software for AR, treasury, and collections                                                      |     
+| 23 | Chargebee                  | Chennai, India   | ₹20L–₹80L   | Subscription billing  | Revenue management for SaaS with invoicing and dunning                                                             |    
+| 24 | Five Star Business Finance | Chennai, India   | ₹18L–₹70L   | NBFC lending          | Secured loans to underserved MSMEs in South India                                                                  |    
+| 25 | Zerodha                    | Bengaluru, India | ₹30L–₹1.2Cr | Stockbroking          | Zero-brokerage trading platform with Kite app and educational tools                                                |    
+| 26 | Acko                       | Bengaluru, India | ₹20L–₹80L   | Insurtech             | Digital-first insurance for vehicles and health with embedded products                                             |    
+####$# Fintech & Payments ####$#
+
+
+####$# E-commerce & Marketplaces ####$#
+| 1  | Flipkart                   | Bengaluru, India | ₹30L–₹1.5Cr | Online marketplace    | Pioneer in Indian e-commerce with vast selection in fashion, electronics, and essentials via apps and logistics    |
+| 2  | Meesho                     | Bengaluru, India | ₹25L–₹90L   | Social commerce       | Enables resellers and small businesses to sell affordably through social media and app-based platform              |
+| 3  | Nykaa                      | Mumbai, India    | ₹25L–₹85L   | Beauty & fashion      | Premium beauty e-tailer with stores, content, and wide range of cosmetics and lifestyle products                   |
+| 4  | Lenskart                   | Delhi NCR, India | ₹20L–₹70L   | Eyewear retail        | Online-offline eyewear brand with virtual try-ons, home tests, and affordable frames for mass market               |
+| 5  | Cars24                     | Gurugram, India  | ₹22L–₹80L   | Used cars             | Tech-driven used car marketplace with inspection, financing, and nationwide delivery services                      |
+| 6  | BigBasket                  | Bengaluru, India | ₹20L–₹75L   | Grocery delivery      | Online supermarket for fresh produce and staples with same-day delivery                                            |
+| 7  | Myntra                     | Bengaluru, India | ₹25L–₹90L   | Fashion retail        | Trendy apparel and accessories platform with live shopping and brand partnerships                                  |
+| 8  | FirstCry                   | Pune, India      | ₹18L–₹70L   | Baby products         | One-stop shop for infants with toys, clothing, and maternity essentials                                            |
+| 9  | Snapdeal                   | Gurugram, India  | ₹15L–₹60L   | Value e-commerce      | Affordable gadgets and daily needs for tier-2/3 cities                                                             |
+| 10 | Udaan                      | Bengaluru, India | ₹22L–₹85L   | B2B wholesale         | Trade platform connecting retailers and suppliers for fast delivery                                                |
+| 11 | Purplle                    | Mumbai, India    | ₹20L–₹75L   | Beauty marketplace    | Affordable cosmetics aggregator with own brands and tutorials                                                      |
+| 12 | DealShare                  | Jaipur, India    | ₹18L–₹70L   | Group buying          | Community-based grocery and essentials deals for low-income users                                                  |
+| 13 | MyGlamm (Good Glamm Group) | Mumbai, India    | ₹20L–₹75L   | Beauty content        | D2C beauty brands with influencer-led commerce and AR try-ons                                                      |
+| 14 | Mamaearth                  | Gurugram, India  | ₹18L–₹65L   | Natural personal care | Toxin-free products for babies and adults via online subscriptions                                                 |
+| 15 | Droom                      | Noida, India     | ₹15L–₹60L   | Auto marketplace      | Certified used vehicles with financing and insurance bundles                                                       |
+| 16 | GlobalBees                 | Mumbai, India    | ₹18L–₹70L   | D2C aggregator        | Incubates and scales emerging consumer brands globally                                                             |
+| 17 | Mensa Brands               | Bengaluru, India | ₹20L–₹75L   | House of brands       | Acquires and operates digital-first fashion and lifestyle brands                                                   |
+| 18 | Blinkit (ex-Grofers)       | Gurugram, India  | ₹22L–₹80L   | Quick commerce        | 10-minute delivery for groceries and daily needs in urban areas                                                    |
+| 19 | Paytm Mall                 | Noida, India     | ₹20L–₹75L   | E-commerce wallet     | Integrated shopping with cashback and logistics for electronics                                                    |
+| 20 | Moglix                     | Noida, India     | ₹25L–₹90L   | B2B industrial        | Procurement platform for manufacturing supplies and MRO                                                            |
+| 21 | Infra.Market               | Gurugram, India  | ₹22L–₹85L   | Building materials    | Online marketplace for construction aggregates and fittings                                                        |
+| 22 | OfBusiness                 | Gurugram, India  | ₹25L–₹1Cr   | B2B materials         | Credit-enabled supply chain for steel and industrial goods                                                         |
+| 23 | CarDekho                   | Jaipur, India    | ₹18L–₹70L   | Auto e-commerce       | New and used car listings with reviews, comparisons, and financing                                                 |
+| 24 | CommerceIQ                 | Bengaluru, India | ₹20L–₹80L   | E-commerce ops        | SaaS for brand management on Amazon and Flipkart                                                                   |                
+| 25 | DailyHunt (now VerSe)      | Bengaluru, India | ₹22L–₹85L   | News marketplace      | Localized news and video content in multiple Indian languages                                                      |
+####$# E-commerce & Marketplaces ####$#
+
+
+####$# Edtech ####$#
+| 1 | BYJU'S        | Bengaluru, India | ₹18L–₹1.1Cr | K-12 learning       | Interactive app-based platform for school curriculum, exams, and personalized learning for students     |
+| 2 | Unacademy     | Bengaluru, India | ₹20L–₹90L   | Exam prep           | Live classes and courses for competitive exams like UPSC, IIT-JEE with top educators                    |
+| 3 | Eruditus      | Mumbai, India    | ₹25L–₹1Cr   | Executive education | Partnerships with global universities for online MBA, certifications, and professional upskilling       |
+| 4 | upGrad        | Mumbai, India    | ₹22L–₹95L   | Higher education    | Industry-relevant courses in tech, management, and data with university collaborations                  |
+| 5 | PhysicsWallah | Noida, India     | ₹18L–₹70L   | Affordable tutoring | YouTube-originated platform for JEE/NEET prep with low-cost online and offline classes                  |
+| 6 | LEAD          | Mumbai, India    | ₹20L–₹75L   | School management   | Tech-enabled schools with curriculum and teacher training for K-12                                      |
+| 7 | Vedantu       | Bengaluru, India | ₹18L–₹70L   | Live tutoring       | One-on-one and group classes for academics and tests with interactive tools                             |
+####$# Edtech ####$#
+
+
+####$# SaaS & Enterprise ####$#
+| 1  | Freshworks   | Chennai, India   | ₹25L–₹1Cr   | CRM software        | Cloud-based CRM, helpdesk, and sales tools for SMBs with AI-driven automation        |   
+| 2  | Postman      | Bengaluru, India | ₹30L–₹1.2Cr | API testing         | Collaboration platform for API development, testing, and monitoring used globally    |   
+| 3  | BrowserStack | Mumbai, India    | ₹28L–₹1.1Cr | Cloud testing       | Browser and device cloud for cross-platform web/app testing without hardware         |   
+| 4  | Icertis      | Pune, India      | ₹35L–₹1.5Cr | Contract management | Enterprise SaaS for contract lifecycle, compliance, and AI-powered negotiations      |   
+| 5  | Uniphore     | Chennai, India   | ₹32L–₹1.3Cr | Conversational AI   | Voice and text analytics for customer experience in contact centers                  |   
+| 6  | Darwinbox    | Hyderabad, India | ₹25L–₹90L   | HR management       | Cloud HR suite for recruitment, payroll, and employee engagement                     |   
+| 7  | Hasura       | Bengaluru, India | ₹28L–₹1Cr   | GraphQL engine      | Instant APIs for databases with real-time subscriptions                              |   
+| 8  | LeadSquared  | Bengaluru, India | ₹22L–₹85L   | Sales automation    | CRM for sales and marketing with lead capture and nurturing                          |   
+| 9  | Fractal      | Mumbai, India    | ₹25L–₹1Cr   | Analytics AI        | Data science platform for consumer insights and AI models                            |   
+| 10 | MindTickle   | Pune, India      | ₹20L–₹80L   | Sales enablement    | Training and readiness tools for revenue teams                                       |   
+| 11 | Druva        | Pune, India      | ₹22L–₹85L   | Data protection     | Cloud backup and recovery for enterprises                                            |   
+| 12 | Zenoti       | Hyderabad, India | ₹20L–₹80L   | Salon software      | All-in-one platform for beauty and wellness businesses                               |   
+| 13 | Gupshup      | Bengaluru, India | ₹25L–₹90L   | Chatbot platform    | Conversational messaging APIs for customer engagement                                |   
+####$# SaaS & Enterprise ####$#
+
+
+####$# Logistics & Delivery ####$#
+| 1 | Delhivery  | Gurugram, India  | ₹20L–₹80L | E-commerce logistics | Integrated supply chain with express parcel and warehousing across India       |
+| 2 | Xpressbees | Pune, India      | ₹18L–₹70L | Last-mile delivery   | Tech-enabled logistics for e-commerce with pincode coverage                    |
+| 3 | Shiprocket | Gurugram, India  | ₹18L–₹70L | Shipping aggregator  | Multi-courier platform for SMB e-commerce fulfillment                          |
+| 4 | BlackBuck  | Bengaluru, India | ₹20L–₹75L | Truck logistics      | Digital freight matching for shippers and transporters                         |
+| 5 | ElasticRun | Bengaluru, India | ₹18L–₹70L | Rural logistics      | Last-mile distribution for FMCG in tier-2/3 markets                            |
+| 6 | Rivigo     | Gurugram, India  | ₹20L–₹75L | Relay logistics      | Driverless trucking with relay model for faster delivery                       |
+| 7 | Porter     | Bengaluru, India | ₹22L–₹80L | Intra-city logistics | On-demand trucking and van services via app                                    |
+| 8 | Rapido     | Bengaluru, India | ₹20L–₹75L | Bike taxi logistics  | Quick delivery and ride-hailing for urban mobility                             |
+####$# Logistics & Delivery ####$#
+
+
+####$# Gaming & Entertainment ####$#
+| 1 | Dream11            | Mumbai, India                 | ₹30L–₹1.2Cr | Fantasy sports      | Skill-based gaming platform for cricket, football with millions of users         |
+| 2 | ShareChat          | Bengaluru, India              | ₹25L–₹1Cr   | Social media        | Indic-language app for short videos, chats, and community engagement             |
+| 3 | MPL                | Bengaluru, India              | ₹22L–₹90L   | Mobile gaming       | Esports and casual games with real-money tournaments                             |
+| 4 | Games24x7          | Bengaluru, India              | ₹25L–₹95L   | Skill gaming        | RummyCircle and My11Circle for card and fantasy contests                         |
+| 5 | Mohalla Tech (Moj) | Bengaluru, India              | ₹22L–₹85L   | Short video         | Regional content creation and live streaming platform                            |
+| 6 | InMobi             | Bengaluru, India              | ₹28L–₹1.1Cr | Adtech              | Mobile advertising and monetization for apps and publishers                      |
+| 7 | Amagi              | New York, USA (Bengaluru ops) | ₹20L–₹80L   | Cloud TV            | SaaS for broadcast and streaming content distribution                            |
+| 8 | Verse Innovation   | Bengaluru, India              | ₹18L–₹70L   | OTT platform        | Dailyhunt's video and news aggregation in local languages                        |
+| 9 | Glance (InMobi)    | Bengaluru, India              | ₹22L–₹85L   | Lock screen content | Personalized feed on phone lock screens for news and entertainment               |
+####$# Gaming & Entertainment ####$#
+
+
+####$# HealthTech & MedTech ####$#
+| 1 | PharmEasy          | Mumbai, India                | ₹22L–₹85L | Online pharmacy      | Medicine delivery and diagnostics with subscription discounts    |
+| 2 | Innovaccer         | Noida, India                 | ₹25L–₹1Cr | Health data platform | Unified care analytics for providers and payers                  |
+| 3 | Pristyn Care       | Gurugram, India              | ₹20L–₹80L | Surgical care        | End-to-end surgery booking and recovery for common procedures    |
+| 4 | Molbio Diagnostics | Goa, India                   | ₹18L–₹70L | Rapid testing        | Truenat portable diagnostics for TB and infectious disease       |
+| 5 | Tata 1mg           | Gurgaon, India               | ₹20L–₹75L | Health e-commerce    | Online pharmacy and consultations with lab tests                 |
+| 6 | Cult.fit           | Bengaluru, India             | ₹18L–₹70L | Fitness tech         | Gyms, online workouts, and nutrition plans                       |
+| 7 | CitiusTech         | Princeton, USA (Mumbai ops)  | ₹22L–₹85L | Health IT            | Digital engineering for EHR and analytics in healthcare          |
+####$# HealthTech & MedTech ####$#
+
+
+####$# Travel & Mobility ####$#
+| 1 | OYO           | Gurugram, India  | ₹20L–₹1Cr | Hospitality      | Budget hotel aggregation with tech for inventory management      |
+| 2 | Ola           | Bengaluru, India | ₹22L–₹85L | Ride-hailing     | Cab and bike booking with EV push and outstation services        |
+| 3 | MakeMyTrip    | Gurugram, India  | ₹25L–₹90L | Travel booking   | Flights, hotels, and holidays with loyalty programs              |
+| 4 | Urban Company | Gurugram, India  | ₹20L–₹80L | Home services    | Verified pros for repairs, beauty, and cleaning                  |
+| 5 | Spinny        | Bengaluru, India | ₹22L–₹80L | Used mobility    | 360° inspection for car buying and selling                       |
+| 6 | Ola Electric  | Bengaluru, India | ₹25L–₹95L | EV manufacturing | Affordable electric scooters with battery swapping               |
+####$# Travel & Mobility ####$#
+
+
+####$# Foodtech & Consumer ####$#
+| 1 | Swiggy      | Bengaluru, India | ₹25L–₹1Cr | Food delivery        | On-demand delivery for food, groceries, and essentials with hyperlocal network          |
+| 2 | Zomato      | Gurugram, India  | ₹22L–₹95L | Restaurant discovery | Platform connecting users to eateries with ordering, delivery, and dining features      |
+| 3 | Zepto       | Mumbai, India    | ₹25L–₹90L | Quick commerce       | 10-min grocery delivery with dark stores in cities                                      |
+| 4 | Rebel Foods | Bengaluru, India | ₹20L–₹75L | Cloud kitchens       | Branded virtual restaurants like Faasos for delivery-only                               |
+| 5 | Licious     | Bengaluru, India | ₹18L–₹70L | Meat delivery        | Fresh meat and seafood with hygiene assurance                                           |
+| 6 | Blinkit     | Gurugram, India  | ₹22L–₹80L | Instant groceries    | Ultra-fast delivery for daily needs                                                     |
+| 7 | DealShare   | Jaipur, India    | ₹18L–₹70L | Group e-commerce     | Bulk buying for groceries at discounts                                                  |
+| 8 | Mamaearth   | Gurugram, India  | ₹18L–₹65L | D2C personal care    | Natural products with clean beauty focus                                                |
+####$# Foodtech & Consumer ####$#
+
+
+####$# Manufacturing & B2B ####$#
+| 1 | Zetwerk      | Bengaluru, India | ₹25L–₹90L | Contract manufacturing | Platform connecting factories for custom parts    |
+| 2 | Moglix       | Noida, India     | ₹25L–₹90L | Industrial supplies    | B2B e-commerce for tools and safety gear          |
+| 3 | OfBusiness   | Gurugram, India  | ₹25L–₹1Cr | Raw materials          | Digital procurement for metals and chemicals      |
+| 4 | Infra.Market | Gurugram, India  | ₹22L–₹85L | Construction materials | Aggregator for cement and pipes                   |
+| 5 | Mensa Brands | Bengaluru, India | ₹20L–₹80L | Brand incubator        | Builds and scales consumer goods brands           |
+####$# Manufacturing & B2B ####$#
+
+
+####$# PropTech & Others ####$#
+| 1  | NoBroker          | Bengaluru, India               | ₹20L–₹75L   | PropTech              | Broker-free rental and sales with verification        |
+| 2  | Livspace          | Bengaluru, India               | ₹18L–₹70L   | Interior design       | Modular furniture and home renovation services        |
+| 3  | ReNew Power       | Gurugram, India                | ₹25L–₹90L   | Renewable energy      | Largest solar and wind producer in India              |
+| 4  | Polygon           | Bengaluru, India               | ₹30L–₹1.2Cr | Blockchain            | Ethereum layer-2 scaling for DeFi                     |
+| 5  | Apna              | Mumbai, India                  | ₹18L–₹70L   | Job marketplace       | Blue-collar hiring with vernacular support            |
+| 6  | LEAD              | Mumbai, India                  | ₹20L–₹75L   | Edtech (crossover)    | School transformation tech                            |
+| 7  | Directi           | Mumbai, India                  | ₹22L–₹85L   | Web services          | Hosting and domain registrar group                    |
+| 8  | Mu Sigma          | Bengaluru, India               | ₹25L–₹90L   | Analytics             | Decision sciences for enterprises                     |
+| 9  | Quikr             | Bengaluru, India               | ₹18L–₹70L   | Classifieds           | Local buy-sell for homes, jobs, and goods             |
+| 10 | Times Internet    | Mumbai, India                  | ₹20L–₹80L   | Digital media         | News and entertainment portals like ET and TOI online |
+| 11 | Hike              | New Delhi, India               | ₹18L–₹70L   | Social gaming         | Web3 messaging and crypto rewards                     |
+| 12 | ClearTax          | Bengaluru, India               | ₹22L–₹85L   | Tax tech              | ITR filing and GST compliance software                |
+| 13 | Dunzo             | Bengaluru, India               | ₹20L–₹75L   | Hyperlocal delivery   | Quick errands for packages and groceries              |
+| 14 | Jumbotail         | Bengaluru, India               | ₹18L–₹70L   | B2B grocery           | Wholesale platform for kirana stores                  |
+| 15 | Netradyne         | San Diego, USA (Bengaluru ops) | ₹25L–₹90L   | AI dashcams           | Fleet safety with video telematics                    |
+| 16 | Porter            | Bengaluru, India               | ₹22L–₹80L   | Logistics (crossover) | On-demand transport for goods                         |
+| 17 | Drools            | Gurugram, India                | ₹18L–₹70L   | Pet food              | Premium nutrition for dogs and cats                   |
+| 18 | Juspay            | Bengaluru, India               | ₹25L–₹95L   | Payments infra        | Open-source payment orchestration                     |
+| 19 | Moneyview         | Bengaluru, India               | ₹20L–₹75L   | Personal loans        | Instant credit app for personal finance               |
+| 20 | Navi Technologies | Bengaluru, India               | ₹22L–₹85L   | Digital lending       | Mutual funds and insurance via app                    |
+| 21 | Veritas Finance   | Chennai, India                 | ₹18L–₹70L   | MSME finance          | Secured loans for small businesses                    |
+| 22 | Vivriti Capital   | Chennai, India                 | ₹20L–₹75L   | NBFC                  | Debt funding for SMEs and infra                       |
+####$# PropTech & Others ####$#
+
